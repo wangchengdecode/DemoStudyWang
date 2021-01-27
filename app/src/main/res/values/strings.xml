@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jni</string>
+    <string name="action_settings">Settings</string>
+    <string name="camera_switch">切换</string>
+    <string name="video">录像</string>
+    <string name="picture">拍照</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">asd</string>
+</resources>

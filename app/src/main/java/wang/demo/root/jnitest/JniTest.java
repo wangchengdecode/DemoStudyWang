@@ -1,0 +1,9 @@
+package wang.demo.root.jnitest;
+
+public class JniTest {
+
+    static {
+        System.loadLibrary("jni-demo");
+    }
+    public static native String hello();
+}
