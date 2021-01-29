@@ -462,3 +462,4 @@ public class Camera2 extends Activity {
         return selectSize;
     }
 }
+//test
